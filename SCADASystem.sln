@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCADACore", "SCADACore\SCADACore.csproj", "{AAE75D97-5A70-4433-ACB5-005977C31405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCADACommon", "SCADACommon\SCADACommon.csproj", "{BFBD9F72-9405-4B46-B44F-98706C440F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDisplay", "AlarmDisplay\AlarmDisplay.csproj", "{DF87B6DA-5FA4-4F63-98C2-0194C3476E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trending", "Trending\Trending.csproj", "{515E7CBC-5880-44BD-9EA3-2DC55E23EE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseManager", "DatabaseManager\DatabaseManager.csproj", "{7673C593-59DC-4E04-8111-292FF6159584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE75D97-5A70-4433-ACB5-005977C31405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE75D97-5A70-4433-ACB5-005977C31405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE75D97-5A70-4433-ACB5-005977C31405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE75D97-5A70-4433-ACB5-005977C31405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBD9F72-9405-4B46-B44F-98706C440F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD9F72-9405-4B46-B44F-98706C440F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD9F72-9405-4B46-B44F-98706C440F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD9F72-9405-4B46-B44F-98706C440F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF87B6DA-5FA4-4F63-98C2-0194C3476E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF87B6DA-5FA4-4F63-98C2-0194C3476E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF87B6DA-5FA4-4F63-98C2-0194C3476E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF87B6DA-5FA4-4F63-98C2-0194C3476E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515E7CBC-5880-44BD-9EA3-2DC55E23EE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515E7CBC-5880-44BD-9EA3-2DC55E23EE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515E7CBC-5880-44BD-9EA3-2DC55E23EE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515E7CBC-5880-44BD-9EA3-2DC55E23EE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7673C593-59DC-4E04-8111-292FF6159584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7673C593-59DC-4E04-8111-292FF6159584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7673C593-59DC-4E04-8111-292FF6159584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7673C593-59DC-4E04-8111-292FF6159584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
